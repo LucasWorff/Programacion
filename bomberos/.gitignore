@@ -63,3 +63,4 @@ final/
 .ropeproject
 *.sqlite3
 */migrations/*
+bomberos/apps/post/migrations
